@@ -49,3 +49,7 @@ On génère le logo avec `Leonardo Phoenix 0.9` :
 Résultat choisi :
 
 ![Image d'une plume sur un livre avec le texte 'Quest of The Funky Codex' écrit autour](2.identite/Leonardo_Phoenix_09_Create_a_whimsical_medievalinspired_icon_f_2.jpg)
+
+On a utilisé GIMP et [Adobe Background Remover](https://www.adobe.com/express/feature/image/remove-background) pour avoir le logo simple :
+
+![Logo sans le fond](2.identite/logo.png)
