@@ -50,6 +50,37 @@ Résultat choisi :
 
 ![Image d'une plume sur un livre avec le texte 'Quest of The Funky Codex' écrit autour](2.identite/Leonardo_Phoenix_09_Create_a_whimsical_medievalinspired_icon_f_2.jpg)
 
-On a utilisé GIMP et [Adobe Background Remover](https://www.adobe.com/express/feature/image/remove-background) pour avoir le logo simple :
+On a utilisé GIMP et [Adobe Background Remover]
+(https://www.adobe.com/express/feature/image/remove-background) pour avoir le logo simple :
 
 ![Logo sans le fond](2.identite/logo.png)
+
+## Concept Art
+
+On vas d'abord définir les personnages et le monde :
+
+> I want to make concept art. Please give me image prompts for world and characters
+
+Mais la réponse était bien trop détaillée
+
+> Give me one prompt for the world and one for the characters Make it short and simple
+
+Réponse :
+
+>  World Design Prompt:
+> "A vibrant, whimsical medieval landscape with rolling hills, forests where trees seem to smile, and castles that appear slightly off-kilter but still majestic. The sky is bright with floating islands and magical elements like glowing clouds or flying creatures. The overall feel is playful and colorful, capturing the essence of a cartoonish, adventurous world."
+
+> Character Design Prompt:
+> "Endearing characters with exaggerated features—think a brave yet clumsy knight, a sassy princess, a quirky druid, a warrior from another planet, and a robot paladin with a funny twist. Each character should have big, expressive eyes, silly poses, and whimsical accessories that make them unforgettable."
+
+On a ensuite passé ça dans Leonardo concept-art `Finetuned Model AlbedoBase XL`
+
+![Dessin d'un chateau trè complexe avec un paysage de rpg classique](3.concept/AlbedoBase_XL_A_vibrant_whimsical_medieval_landscape_with_roll_2.jpg)
+
+Pour le personnage, il a fallut qelque itérations :
+
+> (full body), (concept character sheet:1.5), (illustration:1.3) Roland (Robot Paladin)
+> A ridiculously cartoonish robot knight with oversized, ornate wooden gears, bright copper plating, and super-bright glowing brass accents. His armor is hilariously mismatched (e.g., one arm made of polished wood with a big red "W" on it and the other made of copper-plated metal with a giant gear sticking out). He has a comically exaggerated expression, with a gigantic toothy grin and crossed eyes, as if he's trying way too hard to be a proper knight but keeps getting his steam-powered contraptions tangled in absurd ways. Add details like a tiny steam-powered bird sitting on his shoulder playing a miniature trumpet or a giant wooden gear sticking out of his helmet with a silly propeller on top. key visual, character design, clean detailed face, intricate clothing, vivid, sharp focus, depth of field, clean image, high quality, high detail, HD, (high definition), key visual, concept art, smooth, masterpiece, illustration, sharp focus, highly detailed, dynamic pose, solid color background, bright, bold, white background
+
+![Image concept d'un robot paladin](3.concept/AlbedoBase_XL_full_body_concept_character_sheet15_illustration_0%20(1).jpg)
+
