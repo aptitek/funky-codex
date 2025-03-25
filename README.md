@@ -48,4 +48,4 @@ On génère le logo avec `Leonardo Phoenix 0.9` :
 
 Résultat choisi :
 
-![Image d'une plume sur un livre avec le texte 'Quest of The Funky Codex' écrit autour](Leonardo_Phoenix_09_Create_a_whimsical_medievalinspired_icon_f_2.jpg)
+![Image d'une plume sur un livre avec le texte 'Quest of The Funky Codex' écrit autour](2.identite/Leonardo_Phoenix_09_Create_a_whimsical_medievalinspired_icon_f_2.jpg)
